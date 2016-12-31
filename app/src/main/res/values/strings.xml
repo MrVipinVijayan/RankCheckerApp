@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Website Rank</string>
+    <string name="site_hint">site name</string>
+    <integer name="appbrain_banner_design">2</integer>
+    <integer name="appbrain_banner_color">3</integer>
+    <string name="default_site">google.com</string>
+    <string name="prefix_url">http://data.alexa.com/data?cli=10&amp;dat=snbamz&amp;url=</string>
+    <string name="alexa_url">http://www.alexa.com/siteinfo/</string>
+</resources>
